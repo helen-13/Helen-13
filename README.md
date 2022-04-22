@@ -1,9 +1,11 @@
 ### Olá, eu sou Helen Freire 👩🏽‍🦰
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helen-13&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Estou trabalhando com projetos pessoais e como voluntária com Análise de dados
--  Atuei com educação por mais de 10 anos e pude perceber o quão importante é basear as infromações com dados.
+- 🔭 Estou trabalhando em projetos pessoais e como voluntária com Análise de dados
+- 👩🏻‍🦰 Formada em Pedagogia, Psicopedagogia, Orientação e Gestão Educacional
+- 🎓 Atuei com educação por mais de 10 anos e pude perceber o quão importante é basear as infromações com dados.
 - 🌱 Eu estudo Data Sciencie e Machine Learning
+- 🛼 Como hobbie gosto de patinar
 
 ### Redes Sociais
 
