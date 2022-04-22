@@ -2,9 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helen-13&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 Estou trabalhando com projetos pessoais e como voluntária com Análise de dados
+-  Atuei com educação por mais de 10 anos e pude perceber o quão importante é basear as infromações com dados.
 - 🌱 Eu estudo Data Sciencie e Machine Learning
 
-###Redes Sociais
+### Redes Sociais
 
 <a href='https://github.com/helen-13'>
 <a href="https://instagram.com/freirehelen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -15,7 +16,7 @@
   <a href="https://www.linkedin.com/in/helen-freire-72215131/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ### Conhecimentos
-  
+ 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
