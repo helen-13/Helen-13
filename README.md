@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="URL_DA_SUA_LOGO" width="120" alt="Logo Helen Freire">
+  <img src="https://www.canva.com/design/DAGtmXcDgRs/TTYIGskWs9MylYvvU6NIaQ/view?utm_content=DAGtmXcDgRs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8c95019c61" width="120" alt="Logo Helen Freire">
   <h1>Helen Freire</h1>
   <h3>Especialista em tecnologia e educação</h3>
   <img src="https://komarev.com/ghpvc/?username=helen-13&color=yellow" alt="Visualizações do perfil" />
