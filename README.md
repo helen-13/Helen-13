@@ -1,7 +1,8 @@
 ### 👋 Sobre mim
 
-🎯 Atualmente trabalhando em projetos pessoais e voluntários com **Análise de Dados**  
-🎓 Formação em **Ciências de Dados**, **Tecnologia da Educação**, **Pedagogia**, **Psicopedagogia** e **Gestão Educacional**  
+🎯 Atualmente trabalhando como **Analista de politicas publicas e gestão educacional**  
+🎓 Especialista em **Tecnologia da Educação**, **Pedagogia**, **Psicopedagogia** e **Gestão Educacional**
+🎓 Cursando **Ciências de Dados**, 
 📚 Atuação constante na área educacional  
 🧠 Estudando **Data Science** e **Machine Learning** de forma autodidata  
 🏋️‍♀️ Apaixonada por **crossfit** e **powerlifting** como hobbies
